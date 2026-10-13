@@ -2,4 +2,6 @@ dist/
 build/
 venv/
 *.exe
+*.pyc
 *.txt
+*.spec
